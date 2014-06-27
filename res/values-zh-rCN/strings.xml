@@ -20,7 +20,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="1503967887341230795">"短信"</string>
+    <string name="app_label" msgid="1503967887341230795">"消息"</string>
     <string name="new_message" msgid="1530369762346003973">"新信息"</string>
     <string name="menu_call_back" msgid="7538482331117914146">"呼叫<xliff:g id="NAME">%s</xliff:g>"</string>
     <string name="menu_send_email" msgid="671366308915241664">"发送电子邮件至<xliff:g id="NAME">%s</xliff:g>"</string>
@@ -44,9 +44,9 @@
     <string name="delete_message" msgid="6442394955910357234">"删除"</string>
     <string name="expire_on" msgid="4436268382742593921">"过期时间：<xliff:g id="DATE">%s</xliff:g>"</string>
     <string name="kilobyte" msgid="534782148965716631">"KB"</string>
-    <string name="undelivered_msg_dialog_title" msgid="7479433403599785755">"信息未传送出去"</string>
-    <string name="undelivered_msg_dialog_body" msgid="4789268239627694551">"无法发送此短信。\n尝试发送时间：<xliff:g id="MESSAGE">%s</xliff:g>。"</string>
-    <string name="undelivered_sms_dialog_body" msgid="4203703285563450868">"无法发送此短信。"</string>
+    <string name="undelivered_msg_dialog_title" msgid="7479433403599785755">"消息未传送出去"</string>
+    <string name="undelivered_msg_dialog_body" msgid="4789268239627694551">"无法发送此消息。\n尝试发送时间：<xliff:g id="MESSAGE">%s</xliff:g>。"</string>
+    <string name="undelivered_sms_dialog_body" msgid="4203703285563450868">"无法发送此消息。"</string>
     <string name="delete_thread" msgid="757258847736632791">"删除会话"</string>
     <string name="menu_forward" msgid="9026858380050046756">"转发"</string>
     <string name="download" msgid="4488877642230207631">"下载"</string>
